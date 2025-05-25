@@ -46,10 +46,6 @@ Password : 12345
 ## 🧔 Project 
  
  Anuj Yadav ( Leader ) 
-  
-  Mail ID : anuj.24scse1180563@galgotiasuniversity.ac.in 
-
-  LinkedIN : https://www.linkedin.com/in/anuj-yadav-gu
  
  Ankit Awasthi
 
