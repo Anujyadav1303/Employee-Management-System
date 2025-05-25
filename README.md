@@ -34,7 +34,7 @@ Password : 12345
 
 1. **The repository:**
    ```bash
-   Link : 
+   Link : https://github.com/Anujyadav1303/Employee-Management-System/tree/main 
 
 ## 📁 Used Connector Jar File 
 "C:\Users\Anuj Yadav\Downloads\mysql-connector-java-8.0.28.jar"
