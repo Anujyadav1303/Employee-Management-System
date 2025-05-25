@@ -36,7 +36,7 @@ Password : 12345
    ```bash
    https://github.com/Anujyadav1303/Employee-Management-System/tree/main 
 
-## 📁 Used Connector Jar File 
+## 📁 Project Structure .jar 
 "C:\Users\Anuj Yadav\Downloads\mysql-connector-java-8.0.28.jar"
 
 "C:\Users\Anuj Yadav\Downloads\jcalendar-tz-1.3.3-4.jar"
