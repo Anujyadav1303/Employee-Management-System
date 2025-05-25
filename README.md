@@ -43,15 +43,5 @@ Password : 12345
 
 "C:\Users\Anuj Yadav\Downloads\ResultSet2xml.jar"
 
-## 🧔 Project 
- 
- Anuj Yadav ( Leader ) 
- 
- Ankit Awasthi
-
- Harsh Singh
-
- Ayush Rai
- 
  
 
